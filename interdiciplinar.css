@@ -13,7 +13,7 @@
     background-color: rgb(18, 18, 34);
 }
 .box1{
-    height: 930px;
+    height: 880px;
     width: 1200px;
     background-color: white;
     margin-top: 100px;
@@ -21,7 +21,7 @@
 }
 .img1{
     height: 600px;
-    width: 600px;
+    width: 645px;
     margin-top: 60px;
     margin-left: 40px;
 }
@@ -29,7 +29,7 @@
     height: 150px;
     width: 150px;
 }   
-.img3{
+.img3, .img4, .img5{
     height: 150px;
     width: 150px;
     margin-left: 15px;
